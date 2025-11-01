@@ -29,7 +29,7 @@ Gmail で新規メールを作成する際に、自動的に BCC に自分のメ
 
 ## 🚀 インストール方法
 
-### Chrome Web Storeからインストール（公開後）
+### Chrome Web Storeからインストール（準備中）
 
 1. [Chrome Web Store](#)にアクセス（準備中）
 2. 「Chromeに追加」をクリック
