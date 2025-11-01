@@ -104,7 +104,7 @@ git clone https://github.com/yourusername/gmail-auto-bcc.git
 
 ## 👤 作者
 
-[@yourusername](https://github.com/yourusername)
+[@sukunabicco](https://github.com/sukunabicco)
 
 
 
