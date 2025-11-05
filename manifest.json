@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Gmail Auto BCC",
-  "version": "1.0.0",
-  "description": "Gmailで新規メール作成時に、自動的にBCCに自分のメールアドレスを追加します",
+  "version": "1.0.1",
+  "description": "Automatically add your email to BCC when composing in Gmail",
   
   "permissions": [
     "storage"
