@@ -29,9 +29,9 @@ Gmail で新規メールを作成する際に、自動的に BCC に自分のメ
 
 ## 🚀 インストール方法
 
-### Chrome Web Storeからインストール（準備中）
+### Chrome Web Storeからインストール
 
-1. [Chrome Web Store](#)にアクセス（準備中）
+1. [Chrome Web Store](https://chromewebstore.google.com/detail/gmail-auto-bcc/eidoicdmaifdmijacbebmgjgmilecdgg?authuser=3&hl=ja&pli=1)にアクセス
 2. 「Chromeに追加」をクリック
 
 ### 手動インストール（開発版）
@@ -110,7 +110,7 @@ git clone https://github.com/yourusername/gmail-auto-bcc.git
 
 ## 🐛 バグ報告・機能リクエスト
 
-[Issues](https://github.com/yourusername/gmail-auto-bcc/issues)からお願いします。
+[Issues](https://github.com/yourusername/gmail-auto-bcc/issues)からお知らせいただけると嬉しいです。
 
 
 
